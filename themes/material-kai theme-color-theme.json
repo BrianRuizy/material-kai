@@ -1,5 +1,5 @@
 {
-	"name": "material-kai theme",
+	"name": "Material-kai theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#757575",
@@ -56,8 +56,8 @@
 		"editorRuler.foreground": "#424242",
 		"editorSuggestWidget.background": "#212121",
 		"editorSuggestWidget.border": "#ffffff10",
-		"editorSuggestWidget.foreground": "#eeffff",
-		"editorSuggestWidget.highlightForeground": "#363636",
+		"editorSuggestWidget.foreground": "#7a7c7e",
+		"editorSuggestWidget.highlightForeground": "#EEFFFF",
 		"editorSuggestWidget.selectedBackground": "#00000050",
 		"editorWarning.foreground": "#ffcb6b70",
 		"editorWhitespace.foreground": "#eeffff40",
@@ -85,7 +85,7 @@
 		"list.activeSelectionForeground": "#757575",
 		"list.focusBackground": "#eeffff20",
 		"list.focusForeground": "#eeffff",
-		"list.highlightForeground": "#757575",
+		"list.highlightForeground": "#EEFFFF",
 		"list.hoverBackground": "#1a1a1a",
 		"list.hoverForeground": "#ffffff",
 		"list.inactiveSelectionBackground": "#00000030",

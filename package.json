@@ -1,7 +1,7 @@
 {
     "name": "material-kai",
     "displayName": "material-kai",
-    "description": "An elegant hybrid of material theme and monokai",
+    "description": "An elegant hybrid of material theme and Monokai",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "material-kai theme",
+                "label": "Material-kai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/material-kai theme-color-theme.json"
             }
