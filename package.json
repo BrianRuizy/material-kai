@@ -8,7 +8,7 @@
     },
     "description": "An elegant hybrid of material theme and Monokai",
     "icon": "images/icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.56.0"
     },
