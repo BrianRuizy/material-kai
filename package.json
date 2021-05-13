@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/BrianRuizy/material-kai"
     },
-    "description": "An elegant hybrid of material theme and Monokai",
+    "description": "An elegant Hybrid of Material and Monokai. Diligently tweaked to reduce distractions and increase your productivity",
     "icon": "images/icon.png",
     "version": "0.0.4",
     "engines": {
