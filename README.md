@@ -1,6 +1,9 @@
 <div align="center">
   <img align="center" src="https://github.com/BrianRuizy/material-kai/blob/master/images/icon.png?raw=true">
   <p align="center">
+    </br><img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/brianruizy.material-kai?color=A6E22E&label=Installs&logo=Visual%20Studio%20Code&logoColor=blue">
+    <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/brianruizy.material-kai?color=66D9EF&label=Ratings">
+    <img alt="Visual Studio Marketplace Last Updated" src="https://img.shields.io/visual-studio-marketplace/last-updated/brianruizy.material-kai?color=F92672&label=Last%20updated&logo=Azure%20DevOps">
     </br>Hybrid of existing Material and Monokai color themes.</br>
     Diligently tweaked to reduce distractions and increase your productivity.</br>
   </p>
