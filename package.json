@@ -1,6 +1,11 @@
 {
     "name": "material-kai",
     "displayName": "material-kai",
+    "publisher": "brianruizy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BrianRuizy/material-kai"
+    },
     "description": "An elegant hybrid of material theme and Monokai",
     "version": "0.0.1",
     "engines": {
