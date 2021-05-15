@@ -14,6 +14,8 @@
 
 ## Installation
 
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter. Or search **material-kai** in extension store.
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter. Or search **material-kai** in extensions tab.
 
 ```ext install brianruizy.material-kai```
+
+https://marketplace.visualstudio.com/items?itemName=brianruizy.material-kai
