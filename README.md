@@ -14,6 +14,8 @@
 
 ## Installation
 
+[![Join the chat at https://gitter.im/material-kai/community](https://badges.gitter.im/material-kai/community.svg)](https://gitter.im/material-kai/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter. Or search **material-kai** in extensions tab.
 
 ```ext install brianruizy.material-kai```
